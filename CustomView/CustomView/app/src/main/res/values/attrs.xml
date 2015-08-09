@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleLoadingView">
+        <!-- Drawable to use as Loading Indicator. Use in the center place. -->
+        <attr name="centerDrawable" format="reference" />
+        <!-- Drawable to use as Loading Indicator. Use in the round edge. -->
+        <attr name="roundDrawable" format="reference" />
+    </declare-styleable>
+</resources>
